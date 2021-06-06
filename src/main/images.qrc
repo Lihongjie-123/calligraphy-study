@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>.\image\百家姓.png</file>
+  </qresource>
+</RCC>
